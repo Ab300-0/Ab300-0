@@ -11,4 +11,4 @@
 
 - 💞️ I'm enthusiastic about collaborating on projects that leverage technology to solve real-world problems and enhance user experiences.
 
-- 📫 You can reach me at [provide your contact information, e.g., email address or LinkedIn profile] to connect, discuss potential collaborations, or explore opportunities in the field of computer science.
+- 📫 You can reach me at jagtapab89@gmail.com to connect, discuss potential collaborations, or explore opportunities in the field of computer science.
